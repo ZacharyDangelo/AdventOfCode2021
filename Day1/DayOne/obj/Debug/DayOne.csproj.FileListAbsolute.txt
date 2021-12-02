@@ -1,0 +1,7 @@
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\bin\Debug\DayOne.exe.config
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\bin\Debug\DayOne.exe
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\bin\Debug\DayOne.pdb
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\obj\Debug\DayOne.csprojAssemblyReference.cache
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\obj\Debug\DayOne.csproj.CoreCompileInputs.cache
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\obj\Debug\DayOne.exe
+Z:\Dev\Practice\AdventOfCode2021\DayOne\DayOne\obj\Debug\DayOne.pdb
