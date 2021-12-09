@@ -167,5 +167,18 @@ namespace Day8 {
             return result;
         }
 
+
+        public static int BruteForcePartTwo(string[] input) {
+            string s = "abcdefg";
+            foreach(string s2 in GetPermutations<string>(s.GetEnumerator(),1)) {
+
+            }
+
+
+            return 0;
+
+        }
+
+
     }
 }
